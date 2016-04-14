@@ -13,5 +13,3 @@ author:
 gems:
   - jekyll-paginate
 
-#Others
-markdown: kramdown
